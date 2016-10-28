@@ -1,2 +1,3 @@
 # selfjob
 This project is to help informal people to reach their costumers and vice-versa.
+#Well, My name is Rafael and I'm a brazilian guy. I'm a newbie in this workplace and the reason why I'm in here is because after I have lived in america and all of the years I have struggled trying to understand how the computing world happens I decided to jump in to this world once for all, not only because it is a promising niche market on the years ahead, but because in here I can put out everything that is in my mind, being myself, improving my real world and helping people out to their needs. I like CSS and Javascript, and I'm so much willing to learn Databases, Node.js and so forth.
